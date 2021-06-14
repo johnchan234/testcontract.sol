@@ -1,6 +1,6 @@
 pragma solidity ^0.5.11;
 
-contract Temp {
+library  Temp {
     
     string public name= "im temp contrat";
     uint public number ;
